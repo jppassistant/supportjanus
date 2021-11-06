@@ -1,37 +1,18 @@
 ## Bienvenue sur le site SUPPORT JANUS
 
-You can use the [editor on GitHub](https://github.com/jppassistant/supportjanus/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+L'association **"Support au Modèle Cosmologique Janus"**, configurée pour gérer le demi-salaire de Nathalie Debergh, en même temps que les activités scientifiques du groupe Janus. Le site de l'association est en cours de refonte et présentera le détail des comptes.
 
-### Markdown
+Nathalie a publié un premier papier en juillet, et un second en octobre, dans Modern Physics Letters A, qui constitue ainsi le premier travail sponsorisé par des internautes, confirmant sa qualité de "trouveuse".
+
 [//]: <> (This is also a comment.)
 
- Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-[//]: <> (#```markdown  Syntax highlighted code block)
 
-# Header 1
-## Header 2
-### Header 3
+# Merci aux 960 donateurs contributeurs d'une recherche citoyenne.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jppassistant/supportjanus/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Nous contacter
+ [![contact](https://jp-petit.org/images/EMAIL_IMAGES_LECTEURS/jppetit1937.gif)](https://jp-petit.org/Contact/Contact.htm) 
